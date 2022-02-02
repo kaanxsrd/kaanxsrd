@@ -1,6 +1,6 @@
 <div align="center">
 <h3>Contact İnformation</h3>
-<a href="https://discord.gg/MsCtEDQvDv" target"blank_"><img src="https://img.shields.io/badge/SUNUCUM%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/MsCtEDQvDv" target"blank_"><img src="https://img.shields.io/badge/SERVER%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31rzof2ztlkr4jzny3eqskpya6wy?si=1e7642e574c144ec" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCFTQslhg9ttvP5lpftCysYg" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.instagram.com/wandrescott/" target"blank_"><img src="https://img.shields.io/badge/Instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
