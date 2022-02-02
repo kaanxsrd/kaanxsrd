@@ -1,5 +1,3 @@
-### Merhaba ben kaan
-
 [![Wandre](https://cdn.discordapp.com/attachments/937989366708572190/938341890787536916/image.jpg)](https://github.com/wandrescott)
 
 <div align="center">
