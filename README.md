@@ -37,6 +37,3 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/880480226772156497?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
-
-![image](https://user-images.githubusercontent.com/94650814/152120336-ce1b0f68-ca4f-4262-911d-09a4774fbc6c.png)
-
