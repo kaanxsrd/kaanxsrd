@@ -18,3 +18,6 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/880480226772156497?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
+
+<p align="center">
+    <a href="https://discord.gg/jNXwr8kt3x">Discord Server</a>
