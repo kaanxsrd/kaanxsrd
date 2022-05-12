@@ -1,7 +1,7 @@
 <p align="center">  
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 </p>
-![profile count](https://komarev.com/ghpvc/?username=SnowsOuts&color=8b72ff)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=kaanxsrd&color=8b72ff)&nbsp;
 
 <div align="center">
 <h3>Contact İnformation</h3>
