@@ -17,3 +17,9 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/970664272591986698?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
+
+## Langauges I Know:
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
