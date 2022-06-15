@@ -4,12 +4,11 @@
 
 
 # Hi there , I'm Kaanxsrd
-![profile count](https://komarev.com/ghpvc/?username=kaanxsrd&color=8b72ff)&nbsp;
-[![GitHub kaanxsrd](https://img.shields.io/github/followers/kaanxsrd?label=follow&style=for-the-badge&logo=github&logoColor=whit)](https://github.com/kaanxsrd)&nbsp;
-[![Spotify](https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31rzof2ztlkr4jzny3eqskpya6wy?si=5cf54d79d187432a)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram%20-111111.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://github.com/kaanxsrd)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram%20-111111.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kaanxsrd/)&nbsp;
 
+[![Spotify](https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31rzof2ztlkr4jzny3eqskpya6wy?si=5cf54d79d187432a)&nbsp;
 
+[![YouTube](https://img.shields.io/badge/YouTube%20-111111.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCFTQslhg9ttvP5lpftCysYg)&nbsp;
 
 My Server: [discord.gg/Lethh <3](https://discord.gg/S2ag2naaPY)
 
