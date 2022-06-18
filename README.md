@@ -20,4 +20,4 @@ My Server: [discord.gg/Lethh <3](https://discord.gg/S2ag2naaPY)
 
 ## Discord Profile
 
-<img src="https://lanyard-profile-readme.vercel.app/api/970664272591986698?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+<img src="https://lanyard-profile-readme.vercel.app/api/970664272591986698?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="center" />
