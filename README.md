@@ -17,3 +17,8 @@ My Server: [discord.gg/Lethh <3](https://discord.gg/S2ag2naaPY)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## Discord Profile
+
+<a href="https://discord.com/users/970664272591986698">
+<img src="https://lanyard-profile-readme.vercel.app/api/970664272591986698?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
