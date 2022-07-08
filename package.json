@@ -1,0 +1,19 @@
+{
+    "name": "lethh-bots",
+    "version": "1.0.0",
+    "description": "Lethh bots",
+    "main": "Lethh.js",
+    "scripts": {
+        "start": "nodemon Lethh.js"
+    },
+    "author": "Lethh",
+    "license": "MIT",
+    "homepage": "https://github.com/kaanxsrd/kaanxsrd#readme",
+    "keywords": [
+        "Lethh#0001 - (970664272591986698)",
+        "https://www.instagram.com/kaanxsrd/",
+        "https://discord.com/users/970664272591986698"
+    ],
+    "dependencies": {
+    }
+}
