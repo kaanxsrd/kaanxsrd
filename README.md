@@ -3,7 +3,7 @@
  <br><br>
   <samp>
     Hi there, I'm  Vante <br>
-    I am an dynamic Full Stack Developer with self-taught expertise <br>
+    Dynamic Full Stack Developer with self-taught expertise, currently expanding knowledge through formal Computer Science education <br>
   </samp>
 </p>
 <div align="center">
