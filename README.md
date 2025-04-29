@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**kaanxsrd/kaanxsrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
+ <br><br>
+  <samp>
+    Hi there, I'm  Vante <br>
+    I am an dynamic Full Stack Developer with self-taught expertise <br>
+  </samp>
+</p>
+<div align="center">
+<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/kaanxsrd?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
+</div>
+<div align="center">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=kaanxsrd&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
+</div>
