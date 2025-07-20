@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "description": "",
+  "homepage": "https://app.vante.dev/",
+  "version": "1.0.0",
+  "license": "GPL-3.0-only",
+  "author": {
+    "name": "Kaan Karahanlı",
+    "email": "hi@vante.dev",
+    "url": "https://vante.dev/"
+  },
+  "scripts": {},
+
+  "devDependencies": {},
+
+  "dependencies": {}
+}
