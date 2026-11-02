@@ -42,32 +42,5 @@
 
   <br /><br />
 
-  <h2>GitHub Statistics</h2>
-
-  <details>
-    <summary>Explore my GitHub stats</summary>
-    <br />
-    <table width="100%" align="center">
-      <tr>
-        <td width="50%" align="center" valign="top">
-          <img
-            width="100%"
-            src="https://github-stats-extended.vercel.app/api?username=kaanxsrd&show_icons=false&theme=dark&hide_border=true"
-            alt="GitHub Stats"
-          />
-        </td>
-        <td width="50%" align="center" valign="top">
-          <img
-            width="100%"
-            src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaanxsrd&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
-            alt="Top Languages"
-          />
-        </td>
-      </tr>
-    </table>
-  </details>
-
-  <br /><br />
-
   <samp>Thanks for visiting my profile!</samp>
 </div>
