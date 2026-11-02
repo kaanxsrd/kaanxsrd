@@ -38,12 +38,9 @@
  
 <details>
   <summary style="display: block;"></summary>
-
-<img width="75%" align="center" src="https://skillicons.dev/icons?i=ts,rust,go,py,cpp,react,nextjs,tailwind,express,nestjs,elysia,bun,mongodb,postgres,redis,prisma,drizzle,supabase,docker,github&theme=dark&perline=5">
-
-<img width="40%" src="https://github-stats-extended.vercel.app/api?username=kaanxsrd&show_icons=false&theme=dark&hide_border=true" />
-<img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaanxsrd&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-
+   <img width="40%" src="https://github-stats-extended.vercel.app/api?username=kaanxsrd&show_icons=false&theme=dark&hide_border=true" />
+   <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaanxsrd&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+</details>
 
 ## I'am Listing Now
 <div>
