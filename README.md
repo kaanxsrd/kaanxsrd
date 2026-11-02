@@ -10,9 +10,9 @@
 
 <div align="center" width="100%">
 
-### Hi there, I'm  Kaan 'Vante' Karahanlı
+### I'm Kaan Karahanlı
 
-<samp>Hey, I'm Kaan better known as Vante. I'm a 20-year-old developer passionate about technology, software, and creating things that matter. I love exploring new ideas, experimenting with different technologies, and turning concepts into real-world projects. Always building, always learning, always evolving.y<br /><br />
+<samp>A 20-year-old developer passionate about software, technology, and bringing ideas to life. I enjoy exploring new technologies, experimenting with ideas, and building projects that challenge me to grow. Always learning, always creating, always evolving.<br /><br />
   
 • My [Website](https://vante.app/)
 
