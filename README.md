@@ -47,20 +47,27 @@
   <details>
     <summary>Explore my GitHub stats</summary>
     <br />
-    <img width="48%" src="https://github-stats-extended.vercel.app/api?username=kaanxsrd&show_icons=false&theme=dark&hide_border=true" alt="GitHub Stats" />
-    <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaanxsrd&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+    <table width="100%" align="center">
+      <tr>
+        <td width="50%" align="center" valign="top">
+          <img
+            width="100%"
+            src="https://github-stats-extended.vercel.app/api?username=kaanxsrd&show_icons=false&theme=dark&hide_border=true"
+            alt="GitHub Stats"
+          />
+        </td>
+        <td width="50%" align="center" valign="top">
+          <img
+            width="100%"
+            src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaanxsrd&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
+            alt="Top Languages"
+          />
+        </td>
+      </tr>
+    </table>
   </details>
-
-  <br />
-
-  <h2>Currently Listening To</h2>
-
-  <a href="https://open.spotify.com/user/31vf2doxrepuyh22st2fbzk6mkoe">
-    <img width="55%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
 
   <br /><br />
 
   <samp>Thanks for visiting my profile!</samp>
-
 </div>
