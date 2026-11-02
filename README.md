@@ -3,9 +3,8 @@
 
 <div align="center">
  <h1>
- <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=EDEDED&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there%2C+I'am+Lulushu." alt="Typing SVG" />
+ <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=EDEDED&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there%2C+I'am+Vante." alt="Typing SVG" />
  </h1>
-
 </div>
 
 
@@ -13,8 +12,7 @@
 
 ### Hi there, I'm  Kaan 'Vante' Karahanlı
 
-<samp>
- Let me introduce myself, I'm Kaan 'Vante'. I am 20 y/o.  I am a versatile developer with a deep passion for all aspects of software. I am developing more and more with new ideas and new projects every day<br /><br />
+<samp>Hey, I'm Kaan better known as Vante. I'm a 20-year-old developer passionate about technology, software, and creating things that matter. I love exploring new ideas, experimenting with different technologies, and turning concepts into real-world projects. Always building, always learning, always evolving.y<br /><br />
   
 • My [Website](https://vante.app/)
 
